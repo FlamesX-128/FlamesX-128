@@ -11,6 +11,17 @@ FlamesX-128
   | text | text |
   | ---- | ---- |
   | text | text |
+  | text | text |
+  | text | text |
+  | text | text |
+  | text | text |
+  | text | text |
+  | text | text |
+  | text | text |
+  | text | text |
+  | text | text |
+  | text | text |
+  
   
 </p>
 
