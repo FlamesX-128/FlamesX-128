@@ -24,7 +24,7 @@
   
   | <h3 align="center"> ✯ LANGUAGE ✯ </h3> | <h3 align="center"> ✯ FLUENCY ✯ </h3> |
   | -------- | ------- |
-  | <h3 align="center"> ESPAÑOL </h3> | <h3 align="center"> NATIVE </h3> |
+   ‍  ‍  ‍  ‍  ‍ | <h3 align="center"> ESPAÑOL </h3> | <h3 align="center"> NATIVE </h3> |
   | <h3 align="center"> ENGLISH </h3> | <h3 align="center"> BASIC </h3> |
   | <h3 align="center"> JAPANESE </h3> | <h3 align="center"> BASiC </h3> |
   
