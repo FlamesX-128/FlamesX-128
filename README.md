@@ -6,12 +6,6 @@ FlamesX-128
 | Languages | Programming languages | About me |
 </h2>
 
-  | Language | Fluency |
-  | --- | --- |
-  | Spanish | Native |
-  | English | Basic |
-  | Japanese | Basic |
-  
   <p align="center">
 
   | text | text |
