@@ -11,10 +11,11 @@ FlamesX-128
   | text | text |
   | ---- | ---- |
   | text | text |
+  
 </p>
 
 <h2 align="center">
-  <br><a href="https://es.wikipedia.org/wiki/Dev-C%2B%2B">C++</a> | JavaScript | TypeScript
+  <br><a href="https://es.wikipedia.org/wiki/Dev-C%2B%2B">C++</a> | <a href="https://es.wikipedia.org/wiki/JavaScript">JavaScript</a> | <a href="https://es.wikipedia.org/wiki/TypeScript">TypeScript</a>
 </h2>
 
 <!--
