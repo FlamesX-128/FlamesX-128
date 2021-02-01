@@ -22,7 +22,7 @@
 <a id="user-content-LG" class="anchor" aria-hidden="true" href="#-LG">
 <h1 align="center"> Languages </h1>
 
-  <h3 align="center"> ✯ | ESPAÑOL: NATIVE | ENGLISH: BASIC | JAPANESE: BASIC | ✯ </h3> 
+  <h3 align="center"> ✯ |  ‍  ‍ ESPAÑOL: NATIVE  ‍  ‍ |  ‍  ‍ ENGLISH: BASIC  ‍  ‍ |  ‍  ‍ JAPANESE: BASIC  ‍  ‍ | ✯ </h3> 
 
 <!--
 **FlamesX-128/FlamesX-128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
