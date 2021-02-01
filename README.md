@@ -6,7 +6,7 @@
 
 <a id="user-content-AboutMe" class="anchor" aria-hidden="true" href="#-AboutMe">
 
-<h2 align ="center"> <a href="#PL">Programming languages</a> |</h2>
+<h2 align ="center"> | <a href="#PL">Programming languages</a> | Languages | Social networks | Friends |</h2>
   
 <h2 align="center">
     
