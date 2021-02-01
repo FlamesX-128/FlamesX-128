@@ -19,8 +19,8 @@
 <img src="https://user-images.githubusercontent.com/78381898/106524536-521f5300-64a8-11eb-9a2a-c5b64f90d205.png" wight="150" height="150" />  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  <img src="https://user-images.githubusercontent.com/78381898/106524543-53e91680-64a8-11eb-9fe0-e3504c7fef66.png" wight="150" height="150" />  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  <img src="https://user-images.githubusercontent.com/78381898/106524548-5481ad00-64a8-11eb-8da6-8c8f2f476254.png" wight="150" height="150" />
 </h5>
 
-<h1 align="center"> Languages </h1>
 <a id="user-content-LG" class="anchor" aria-hidden="true" href="#-LG">
+<h1 align="center"> Languages </h1>
   
   | LANGUAGE | FLUENCY |
   | -------- | ------- |
