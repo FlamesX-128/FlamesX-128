@@ -13,7 +13,7 @@ FlamesX-128
   | Japanese | Basic |
 
 <h2 align="center">
-  <br><a href="https://es.wikipedia.org/wiki/Dev-C%2B%2B"C++</a> | JavaScript | TypeScript
+  <br><a href="https://es.wikipedia.org/wiki/Dev-C%2B%2B">C++</a> | JavaScript | TypeScript
 </h2>
 
 <!--
