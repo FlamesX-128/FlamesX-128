@@ -3,7 +3,7 @@ FlamesX-128
 </h1>
 
 <h2 align ="center">
-  | Languages | <a href="Programming languages"></a>Programming languages | About me |
+  | Languages | <a href="Programming"></a>Programming languages | About me |
 </h2>
 
   <p align="center">
@@ -14,7 +14,7 @@ FlamesX-128
   
 </p>
 
-#Programming languages
+#Programming
 <h2 align="center">
   <br><a href="https://es.wikipedia.org/wiki/Dev-C%2B%2B">C++</a> | <a href="https://es.wikipedia.org/wiki/JavaScript">JavaScript</a> | <a href="https://es.wikipedia.org/wiki/TypeScript">TypeScript</a>
 </h2>
