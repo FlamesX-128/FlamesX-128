@@ -3,7 +3,7 @@ FlamesX-128
 </h1>
 
 <h2 align ="center">
-  | Languages | <a href="#-LP"></a>Programming languages | About me |
+  | Languages | <a href="user-content-LP"></a>Programming languages | About me |
 </h2>
 
   <p align="center">
