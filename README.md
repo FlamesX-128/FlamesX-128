@@ -24,11 +24,6 @@
 
   <h3 align="center"> ✯ | ESPAÑOL: NATIVE | ENGLISH: BASIC | JAPANESE: BASIC | ✯ </h3> 
 
-<div class="text-purple">
-  This text is purple including the link
-</div>
-
-
 <!--
 **FlamesX-128/FlamesX-128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
