@@ -3,36 +3,17 @@ FlamesX-128
 </h1>
 
 <h1 align ="center">
-| Languages |
+| Languages | Programming languages | About me |
 </h1>
 
   | Language | Fluency |
   | --- | --- |
-  | Spanish | Native  |
+  | Spanish | Native |
   | English | Basic |
   | Japanese | Basic |
 
-<p align="center"></p>
-<table>
-    <thead>
-        <tr>
-            <th align="left">Column1</th>
-            <th align="center">Column1</th>
-            <th align="right">Column1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">Column1</td>
-            <td align="center">Column1</td>
-            <td align="right">Column1</td>
-        </tr>
-    </tbody>
-</table>
-<p></p>
-
 <h2 align="center">
-  <br>C++ | JavaScript | TypeScript
+  <br><a href="https://es.wikipedia.org/wiki/Dev-C%2B%2B"C++</a> | JavaScript | TypeScript
 </h2>
 
 <!--
