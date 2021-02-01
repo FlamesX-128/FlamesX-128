@@ -7,6 +7,11 @@ FlamesX-128
 </h1>
 
 <h2 align="center">
+  | Language | Fluency |
+  | --- | --- |
+  | Spanish | Native  |
+  | English | Basic |
+  | Japanese | Basic |
   
 </h2>
 
