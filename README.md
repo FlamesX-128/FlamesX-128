@@ -2,15 +2,22 @@
 FlamesX-128
 </h1>
 
-<h1 align ="center">
+<h2 align ="center">
 | Languages | Programming languages | About me |
-</h1>
+</h2>
 
   | Language | Fluency |
   | --- | --- |
   | Spanish | Native |
   | English | Basic |
   | Japanese | Basic |
+  
+  <p align="center">
+
+  | text | text |
+  | ---- | ---- |
+  | text | text |
+</p>
 
 <h2 align="center">
   <br><a href="https://es.wikipedia.org/wiki/Dev-C%2B%2B">C++</a> | JavaScript | TypeScript
