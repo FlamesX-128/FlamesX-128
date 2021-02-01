@@ -25,7 +25,7 @@
   <h3 align="center"> ✯ | ESPAÑOL: NATIVE | ENGLISH: BASIC | JAPANESE: BASIC | ✯ </h3> 
 
 <div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
+  This text is purple including the link
 </div>
 
 
