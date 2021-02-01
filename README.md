@@ -14,13 +14,14 @@ FlamesX-128
   
 </p>
 
-<h1 id= "LP">
-  <a id="user-content-LP" class="anchor" aria-hidden="true" href="#-LP"></a></h1>
-
-
 <h2 align="center">
   <br><a href="https://es.wikipedia.org/wiki/Dev-C%2B%2B">C++</a> | <a href="https://es.wikipedia.org/wiki/JavaScript">JavaScript</a> | <a href="https://es.wikipedia.org/wiki/TypeScript">TypeScript</a>
 </h2>
+
+
+<h1 id= "LP">
+  <a id="user-content-LP" class="anchor" aria-hidden="true" href="#-LP"></a></h1>
+
 
 <!--
 **FlamesX-128/FlamesX-128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
