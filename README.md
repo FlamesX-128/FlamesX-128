@@ -24,7 +24,10 @@
 
   <h3 align="center"> ✯ | ESPAÑOL: NATIVE | ENGLISH: BASIC | JAPANESE: BASIC | ✯ </h3> 
 
-<font color="red">Status: **Not yet implemented**</font>
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
+
 
 <!--
 **FlamesX-128/FlamesX-128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
