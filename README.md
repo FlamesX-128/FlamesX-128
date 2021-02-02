@@ -6,8 +6,6 @@
 <img src="https://komarev.com/ghpvc/?username=FlamesX-128">
   </h5>
 
-<h1 align ="center"> | ABOUT ME | </h1>
-
 <h2 align ="center"> | 
   <a href="#PL">Programming languages</a> | <a href="#LG">Languages</a> | Social networks | Friends |
 </h2>
