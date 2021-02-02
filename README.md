@@ -5,6 +5,12 @@
   <a id="user-content-AboutMe" class="anchor" aria-hidden="true" href="#-AboutMe"> </a>
 </h2>
 
+<img src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical" widht="150" height="200">  ‍ ‍ ‍ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&theme=radical" widht="150" height="200">
+
+<h5 align="center"> 
+<img src="https://komarev.com/ghpvc/?username=FlamesX-128">
+  </h5>
+
 <h2 align ="center"> | 
   <a href="#PL">Programming languages</a> | <a href="#LG">Languages</a> | Social networks | Friends |
 </h2>
@@ -25,14 +31,6 @@
 
   <h3 align="center"> ✯ |  ‍  ‍ ESPAÑOL: NATIVE  ‍  ‍ |  ‍  ‍ ENGLISH: BASIC  ‍  ‍ |  ‍  ‍ JAPANESE: BASIC  ‍  ‍ | ✯ </h3> 
  
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical" widht="150" height="200">  ‍ ‍ ‍ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&theme=radical" widht="150" height="200">
-
-
-<img src="https://komarev.com/ghpvc/?username=FlamesX-128">
 
 
 
