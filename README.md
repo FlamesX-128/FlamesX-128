@@ -1,6 +1,6 @@
 <h1 align="center"> 〖 FlamesX-128 〗 </h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical" style="max-widht:100%;" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical" style="max-widht:10%;" height="200">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&theme=radical" style="max-widht:100%;" height="200">
 
 <h1 align="center"> 〖 Programming Languages 〗 </h1>
