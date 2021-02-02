@@ -2,7 +2,7 @@
 
 <h2 align ="center">
   | <a href="#AboutMe">About me</a> |
-  <a id="user-content-AboutMe" class="anchor" aria-hidden="true" href="#-AboutMe">
+  <a id="user-content-AboutMe" class="anchor" aria-hidden="true" href="#-AboutMe"> <br>
 </h2>
 
 
