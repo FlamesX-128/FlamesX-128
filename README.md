@@ -25,10 +25,32 @@
 
   <h3 align="center"> ✯ |  ‍  ‍ ESPAÑOL: NATIVE  ‍  ‍ |  ‍  ‍ ENGLISH: BASIC  ‍  ‍ |  ‍  ‍ JAPANESE: BASIC  ‍  ‍ | ✯ </h3> 
  
-<img src="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical" style=height="150">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github.com/anuraghazra/github-readme-stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
