@@ -24,6 +24,19 @@
 <h1 align="center"> Languages </h1>
 
   <h3 align="center"> ✯ |  ‍  ‍ ESPAÑOL: NATIVE  ‍  ‍ |  ‍  ‍ ENGLISH: BASIC  ‍  ‍ |  ‍  ‍ JAPANESE: BASIC  ‍  ‍ | ✯ </h3> 
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact&theme=radical)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlamesX-128)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 
 <!--
 **FlamesX-128/FlamesX-128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
