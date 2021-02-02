@@ -1,7 +1,7 @@
 <h1 align="center"> 〖 FlamesX-128 〗 </h1>
 
 <h5 align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical" width="100" height="200" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&theme=radical" width="100" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical" width="600" height="200" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&theme=radical" width="100" height="200" />
 </h5>
 
 <h1 align="center"> 〖 Programming Languages 〗 </h1>
