@@ -11,8 +11,8 @@
 <h1 align="center"> Programming languages </h1>
 <a id="user-content-PL" class="anchor" aria-hidden="true" href="#-PL">
   
-<h2 align="center">
-  | <a href="https://es.wikipedia.org/wiki/Dev-C%2B%2B">C++</a> | <a href="https://es.wikipedia.org/wiki/JavaScript">JavaScript</a> | <a href="https://es.wikipedia.org/wiki/TypeScript">TypeScript</a> |
+<h2 align="center"> |
+  <a href="https://es.wikipedia.org/wiki/Dev-C%2B%2B">C++</a> | <a href="https://es.wikipedia.org/wiki/JavaScript">JavaScript</a> | <a href="https://es.wikipedia.org/wiki/TypeScript">TypeScript</a> |
 </h2>
 
 <h5 align="center">
