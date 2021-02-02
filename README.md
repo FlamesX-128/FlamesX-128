@@ -2,10 +2,8 @@
 
 <h2 align ="center">
   | <a href="#AboutMe">About me</a> |
-  <a id="user-content-AboutMe" class="anchor" aria-hidden="true" href="#-AboutMe">
+  <a id="user-content-AboutMe" class="anchor" aria-hidden="true" href="#-AboutMe"> </a>
 </h2>
-
-</a>
 
 <h2 align ="center"> | 
   <a href="#PL">Programming languages</a> | <a href="#LG">Languages</a> | Social networks | Friends |
