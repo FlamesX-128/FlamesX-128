@@ -16,10 +16,10 @@
 </h5>
 
 <a id="user-content-LG" class="anchor" aria-hidden="true" href="#-LG"> </a>
-<h1 align="center"> Languages </h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical" widht="150" height="200">  ‍ ‍ ‍ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&theme=radical" widht="150" height="200">
 
+<h1 align="center"> Languages </h1>
 <h5 align="center"> 
 <img src="https://komarev.com/ghpvc/?username=FlamesX-128">
   </h5>
