@@ -29,11 +29,15 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&theme=radical">
 
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&theme=radical" />
+</a>
 
 
 
