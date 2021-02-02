@@ -29,21 +29,10 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&show_icons=true&theme=radical" widht="100" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&theme=radical" widht="150" height="200">
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&theme=radical" />
-</a>
-
-
-
-
-
-
+<img src="https://komarev.com/ghpvc/?username=FlamesX-128">
 
 
 
