@@ -15,6 +15,12 @@
 <h5 align="center">
 <a href="https://zdoom.org/about"><img src="https://user-images.githubusercontent.com/78381898/109361903-94da0e00-784f-11eb-8ac7-69fd4491cc5e.png" wight="150" height="150" /></a>
 </h5>
+ 
+<h1 align="center"> 〖 Learning 〗 </h1>
+<h5 align="center">
+<a href="https://zdoom.org/about"><img src="https://user-images.githubusercontent.com/78381898/109363316-e6839800-7851-11eb-9303-1f1c40092a67.png" wight="150" height="150" /></a>  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ <a href="https://zdoom.org/about"><img src="https://user-images.githubusercontent.com/78381898/109363313-e5526b00-7851-11eb-82ba-8b1ddae74275.png" wight="150" height="150" /></a>
+</h5>
+
 
 <h1 align="center"> 〖 Social Networks 〗 </h1>
 
