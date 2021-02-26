@@ -19,8 +19,7 @@
 <h1 align="center"> 〖 Learning 〗 </h1>
 
 <div align="center">
-<a href="https://es.wikipedia.org/wiki/MongoDB"><img src="https://user-images.githubusercontent.com/78381898/109363316-e6839800-7851-11eb-9303-1f1c40092a67.png" wight="50" height="50" /></a> 
-<a href=""><img src="https://user-images.githubusercontent.com/78381898/109363895-3dd63800-7853-11eb-975c-d4693d5b03b8.png" wight="50" height="50" /></a> 
+<a href="https://es.wikipedia.org/wiki/MongoDB"><img src="https://user-images.githubusercontent.com/78381898/109363316-e6839800-7851-11eb-9303-1f1c40092a67.png" wight="50" height="50" /></a> ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ <a href=""><img src="https://user-images.githubusercontent.com/78381898/109363895-3dd63800-7853-11eb-975c-d4693d5b03b8.png" wight="50" height="50" /></a> 
 </div>
 
 
