@@ -22,6 +22,12 @@
 <a href="https://es.wikipedia.org/wiki/MongoDB"><img src="https://user-images.githubusercontent.com/78381898/109363316-e6839800-7851-11eb-9303-1f1c40092a67.png" wight="50" height="50" /></a> ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ <a href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)"><img src="https://user-images.githubusercontent.com/78381898/109363895-3dd63800-7853-11eb-975c-d4693d5b03b8.png" wight="50" height="50" /></a> 
 </div>
 
+<h1 align="center"> 〖 More specific information 〗 </h1>
+
+| LANGUAGES | LEVEL |
+--
+| JavaScript | High |
+--
 
 <h1 align="center"> 〖 Social Networks 〗 </h1>
 <h3 align="center"> Disabled until it reaches 50 stars or 50 followers. </h3>
