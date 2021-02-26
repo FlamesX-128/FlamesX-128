@@ -27,6 +27,8 @@
 | LANGUAGES | LEVEL |
 | ---------- | ---- |
 | JavaScript | High |
+| C++ | High |
+| 
 
 
 <h1 align="center"> 〖 Social Networks 〗 </h1>
