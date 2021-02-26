@@ -24,11 +24,11 @@
 
 <h1 align="center"> 〖 More specific information 〗 </h1>
 
-| LANGUAGES    | LEVEL | SOURCE PORTS | LEVEL | DATABASES    | LEVEL |
-| ------------ | ----- | ------------ | ----- | ------------ | ----- |
-| JavaScript   | High  | ZDoom        | High  | MongoDB      | Low   |
-| C++          | High  |              |       |              |       |
-| TypeScript   | Mid   |              |       |              |       |
+| LANGUAGES    | LEVEL | SOURCE PORTS | LEVEL | DATABASES    | LEVEL | MARKUP       | LEVEL |
+| ------------ | ----- | ------------ | ----- | ------------ | ----- | ------------ | ----- |
+| JavaScript   | High  | ZDoom        | High  | MongoDB      | Low   | HTML         | Mid   |
+| C++          | High  |              |       |              |       |              |       |
+| TypeScript   | Mid   |              |       |              |       |              |       |
 
 <h1 align="center"> 〖 Social Networks 〗 </h1>
 <h3 align="center"> Disabled until it reaches 50 stars or 50 followers. </h3>
