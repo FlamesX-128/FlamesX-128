@@ -25,7 +25,7 @@
 <h1 align="center"> 〖 More specific information 〗 </h1>
 
 | LANGUAGES    | LEVEL    |  ‍ ‍ ‍ | DATABASES    | LEVEL    |  ‍ ‍ ‍ | MARKUP       | LEVEL    |  ‍ ‍ ‍ | ROUTERS      | LEVEL    |
-| ------------ | -------- | ------ | ------------ | -------- |  ‍ ‍ ‍ | ------------ | -------- |  ‍ ‍ ‍ | ------------ | -------- |
+| ------------ | -------- | ------ | ------------ | -------- | ------ | ------------ | -------- | ------ | ------------ | -------- |
 | JavaScript   | High     |  ‍ ‍ ‍ | MongoDB      | Low      |  ‍ ‍ ‍ | HTML         | Mid      |  ‍ ‍ ‍ | Express      | Very low |
 | C++          | High     |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
 | TypeScript   | Mid      |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
