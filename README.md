@@ -24,7 +24,7 @@
 
 <h1 align="center"> 〖 More specific information 〗 </h1>
 
-| LANGUAGES    | LEVEL | Source Ports | LEVEL | Database     | LEVEL |
+| LANGUAGES    | LEVEL | SOURCE PORTS | LEVEL | DATABASES    | LEVEL |
 | ------------ | ----- | ------------ | ----- | ------------ | ----- |
 | JavaScript   | High  | ZDoom        | High  | MongoDB      | Low   |
 | C++          | High  |              |       |              |       |
