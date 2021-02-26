@@ -19,7 +19,7 @@
 <h1 align="center"> 〖 Learning 〗 </h1>
 
 <h5 align="center">
-<a href="https://zdoom.org/about"><img src="https://user-images.githubusercontent.com/78381898/109363316-e6839800-7851-11eb-9303-1f1c40092a67.png" wight="50" height="50" /></a> <a href="https://user-images.githubusercontent.com/78381898/109361903-94da0e00-784f-11eb-8ac7-69fd4491cc5e.png" wight="50" height="50" /></a>
+<a href="https://zdoom.org/about"><img src="https://user-images.githubusercontent.com/78381898/109363316-e6839800-7851-11eb-9303-1f1c40092a67.png" wight="50" height="50" /></a> <a href=""><img src"https://user-images.githubusercontent.com/78381898/109361903-94da0e00-784f-11eb-8ac7-69fd4491cc5e.png" wight="50" height="50" /></a>
 </5>
 
 
