@@ -15,7 +15,12 @@
 <div align="center">
 <a href="https://zdoom.org/about"><img src="https://user-images.githubusercontent.com/78381898/109361903-94da0e00-784f-11eb-8ac7-69fd4491cc5e.png" wight="150" height="150" /></a>
 </div>
- 
+
+<h1 align="center"> 〖 Markups 〗 </h1>
+<div align="center">
+<a href="https://es.wikipedia.org/wiki/HTML"><img src="" wight="150" height="150" /></a>
+</div>
+
 <h1 align="center"> 〖 Learning 〗 </h1>
 
 <div align="center">
