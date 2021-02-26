@@ -18,9 +18,9 @@
  
 <h1 align="center"> 〖 Learning 〗 </h1>
 
-<h5 align="center">
+<div align="center">
 <a href=""><img src="https://user-images.githubusercontent.com/78381898/109363316-e6839800-7851-11eb-9303-1f1c40092a67.png" wight="50" height="50" /></a> 
-</h5>
+</div>
 
 
 <h1 align="center"> 〖 Social Networks 〗 </h1>
