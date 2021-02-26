@@ -24,11 +24,13 @@
 
 <h1 align="center"> 〖 More specific information 〗 </h1>
 
+<div align="center">
 | LANGUAGES  | LEVEL |
 | ---------- | ----- |
 | JavaScript | High  |
 | C++        | High  |
 | TypeScript | Mid   |
+</div>
 
 | Source Ports | LEVEL |
 | ------------ | ----- |
