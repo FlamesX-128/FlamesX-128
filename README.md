@@ -25,9 +25,9 @@
 <h1 align="center"> 〖 More specific information 〗 </h1>
 
 | LANGUAGES | LEVEL |
----
+| ---------- | ---- |
 | JavaScript | High |
----
+
 
 <h1 align="center"> 〖 Social Networks 〗 </h1>
 <h3 align="center"> Disabled until it reaches 50 stars or 50 followers. </h3>
