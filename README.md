@@ -41,7 +41,7 @@
 | ZDoom        | High     |  ‍ ‍ ‍ | discord.js  | Mid      |
 |              |          |  ‍ ‍ ‍ | mongoose    | Mid      |
 |              |          |  ‍ ‍ ‍ | nodemon     | Low      |
-|              |          |  ‍ ‍ ‍ | dotenv      | Low      |
+|              |          |  ‍ ‍ ‍ | dotenv      | Low      | 
 |              |          |  ‍ ‍ ‍ | express     | Very Low |
 
 <h1 align="center"> 〖 Social Networks 〗 </h1>
