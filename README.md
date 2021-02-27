@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="https://metrics.lecoq.io/FlamesX-128?template=classic&followup=1&languages=1&lines=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FMexico_City" />
+<img src="https://metrics.lecoq.io/FlamesX-128?template=classic&followup=1&languages=1&lines=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FMexico_City" height=700 />
 </div>
 
 <h1 align="center"> 〖 Programming Languages 〗 </h1>
