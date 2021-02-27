@@ -1,7 +1,7 @@
 <h1 align="center"> 〖 FlamesX-128 〗 </h1>
 
 <div align="center">
-<img src="https://metrics.lecoq.io/FlamesX-128?template=classic&followup=1&languages=1&lines=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FMexico_City" wight="800" height="800" />
+<img src="https://metrics.lecoq.io/FlamesX-128?template=classic&followup=1&languages=1&lines=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FMexico_City" />
 </div>
 
 <h1 align="center"> 〖 Programming Languages 〗 </h1>
