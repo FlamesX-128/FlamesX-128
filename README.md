@@ -1,6 +1,8 @@
 <h1 align="center"> 〖 FlamesX-128 〗 </h1>
 
+<div align="center">
 ![Metrics](https://metrics.lecoq.io/FlamesX-128?template=classic&pagespeed=1&languages=1&languages.colors=github&languages.threshold=0%25&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FNew_York)
+</div>
 
 <h1 align="center"> 〖 Programming Languages 〗 </h1>
 
