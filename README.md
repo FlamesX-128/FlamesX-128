@@ -1,7 +1,7 @@
 <h1 align="center"> 〖 FlamesX-128 〗 </h1>
 
 <div align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&count_private=true&show_icons=true&theme=tokyonight">  ‍  ‍ <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&layout=compact&theme=tokyonight&hide=html">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&count_private=true&show_icons=true&theme=tokyonight">  ‍ <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&layout=compact&theme=tokyonight&hide=html">
 </div>
 
 <div align="center">
