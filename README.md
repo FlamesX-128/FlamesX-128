@@ -10,6 +10,10 @@
 <a href="https://es.wikipedia.org/wiki/C%2B%2B"><img src="https://user-images.githubusercontent.com/78381898/106524536-521f5300-64a8-11eb-9a2a-c5b64f90d205.png" wight="150" height="150" /></a>  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  <a href="https://es.wikipedia.org/wiki/JavaScript"><img src="https://user-images.githubusercontent.com/78381898/106524543-53e91680-64a8-11eb-9fe0-e3504c7fef66.png" wight="150" height="150" /></a>  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  <a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://user-images.githubusercontent.com/78381898/106524548-5481ad00-64a8-11eb-8da6-8c8f2f476254.png" wight="150" height="150" /></a>
 </div>
 
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact&theme=tokyonight&hide=html">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true&theme=tokyonight">
+
+
 <h1 align="center"> 〖 Source Ports 〗 </h1>
 
 <div align="center">
