@@ -16,16 +16,19 @@
 <a href="https://zdoom.org/about"><img src="https://user-images.githubusercontent.com/78381898/109361903-94da0e00-784f-11eb-8ac7-69fd4491cc5e.png" wight="150" height="150" /></a>
 </div>
 
-<h1 align="center"> 〖 Markups 〗 </h1>
-<div align="center">
-<a href="https://es.wikipedia.org/wiki/HTML"><img src="https://user-images.githubusercontent.com/78381898/109367558-fef8b000-785b-11eb-85c7-bd6b3b642af5.png" wight="150" height="150" /></a>
-</div>
-
 <h1 align="center"> 〖 Learning 〗 </h1>
 
 <div align="center">
 <a href="https://es.wikipedia.org/wiki/MongoDB"><img src="https://user-images.githubusercontent.com/78381898/109363316-e6839800-7851-11eb-9303-1f1c40092a67.png" wight="50" height="50" /></a> ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ <a href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)"><img src="https://user-images.githubusercontent.com/78381898/109363895-3dd63800-7853-11eb-975c-d4693d5b03b8.png" wight="50" height="50" /></a> 
 </div>
+
+<h1 align="center"> 〖 MODULES WITH NODEJS 〗 </h1>
+
+| LEVEL: Mid | ‍ ‍ ‍ | LEVEL: Low |
+| ---------- | ----- | ---------- |
+| Discord.js | ‍ ‍ ‍ | nodemon    |
+| mongoose   | ‍ ‍ ‍ | dotenv     |
+
 
 <h1 align="center"> 〖 More specific information 〗 </h1>
 
