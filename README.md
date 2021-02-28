@@ -33,7 +33,7 @@
 | ------------ | -------- | ------ | ------------ | -------- | ------ | ------------ | -------- | ------ | ------------ | -------- |
 | JavaScript   | High     |  ‍ ‍ ‍ | MongoDB      | Low      |  ‍ ‍ ‍ | HTML         | Mid      |  ‍ ‍ ‍ | Express      | Very low |
 | C++          | High     |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
-| TypeScript   | Mid      |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
+| TypeScript   | High     |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
 | Golang       | Low      |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
 
 | SOURCE PORTS | LEVEL    |  ‍ ‍ ‍ | NODEJS: NPM | LEVEL    |
