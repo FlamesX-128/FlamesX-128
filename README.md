@@ -32,8 +32,8 @@
 | LANGUAGES    | LEVEL    |  ‍ ‍ ‍ | DATABASES    | LEVEL    |  ‍ ‍ ‍ | MARKUP       | LEVEL    |  ‍ ‍ ‍ | ROUTERS      | LEVEL    |
 | ------------ | -------- | ------ | ------------ | -------- | ------ | ------------ | -------- | ------ | ------------ | -------- |
 | JavaScript   | High     |  ‍ ‍ ‍ | MongoDB      | Low      |  ‍ ‍ ‍ | HTML         | Mid      |  ‍ ‍ ‍ | Express      | Very low |
-| C++          | High     |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
 | TypeScript   | High     |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
+| C++          | Mid      |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
 | Golang       | Low      |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
 
 | SOURCE PORTS | LEVEL    |  ‍ ‍ ‍ | NODEJS: NPM | LEVEL    |
