@@ -36,13 +36,13 @@
 | C++          | Mid      |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
 | Golang       | Low      |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |  ‍ ‍ ‍ |              |          |
 
-| SOURCE PORTS | LEVEL    |  ‍ ‍ ‍ | NODEJS: NPM | LEVEL    |
-| ------------ | -------- | ------ | ----------- | -------- |
-| ZDoom        | High     |  ‍ ‍ ‍ | discord.js  | Mid      |
-|              |          |  ‍ ‍ ‍ | mongoose    | Mid      |
-|              |          |  ‍ ‍ ‍ | nodemon     | Low      |
-|              |          |  ‍ ‍ ‍ | dotenv      | Low      | 
-|              |          |  ‍ ‍ ‍ | express     | Very Low |
+| SOURCE PORTS | LEVEL    |
+| ------------ | -------- |
+| ZDoom        | High     |
+|              |          |
+|              |          |
+|              |          |
+|              |          |
 
 <h1 align="center"> 〖 Social Networks 〗 </h1>
 <h3 align="center"> Disabled until it reaches 50 stars or 50 followers. </h3> <br>
