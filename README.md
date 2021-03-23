@@ -4,10 +4,6 @@
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&count_private=true&show_icons=true&theme=tokyonight">  ‍ <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&layout=compact&theme=tokyonight&hide=html">
 </div>
 
-<div align="center">
-<img src="https://metrics.lecoq.io/FlamesX-128?template=classic&followup=1&languages=1&lines=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FMexico_City" height=700 />
-</div>
-
 <h1 align="center"> 〖 Programming Languages 〗 </h1>
 
 <div align="center">
