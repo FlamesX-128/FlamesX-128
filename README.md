@@ -41,7 +41,9 @@
 |              |          |
 
 <h1 align="center"> 〖 Social Networks 〗 </h1>
-<a href="https://discord.gg/z3dATdqXWY"><img src="https://img.shields.io/discord/830185962360799262?color=yellow&label=Discord&logo=Hell_s_Flames&logoColor=blue&style=plastic" alt="Discord server" /></a>
+<a href="https://discord.gg/z3dATdqXWY">
+<img src="https://img.shields.io/discord/830185962360799262?color=blue&label=Discord&logo=Hell_s_Flames&logoColor=blue&style=plastic" alt="Discord" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=FlamesX-128">
 <!--
