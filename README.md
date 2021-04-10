@@ -41,7 +41,7 @@
 |              |          |
 
 <h1 align="center"> 〖 Social Networks 〗 </h1>
-<h3 align="center"> Disabled until it reaches 50 stars or 50 followers. </h3> <br>
+<a href="https://discord.gg/z3dATdqXWY"><img src="https://img.shields.io/discord/222078108977594368?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=FlamesX-128">
 <!--
