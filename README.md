@@ -42,7 +42,7 @@
 
 <h1 align="center"> 〖 Social Networks 〗 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=FlamesX-128"> [![Discord](https://img.shields.io/discord/830185962360799262?color=7289da&logo=discord&logoColor=dark)](https://discord.gg/z3dATdqXWY)
+<img src="https://komarev.com/ghpvc/?username=FlamesX-128">   [![Discord](https://img.shields.io/discord/830185962360799262?color=7289da&logo=discord&logoColor=dark)](https://discord.gg/z3dATdqXWY)
 <!--
 **FlamesX-128/FlamesX-128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
