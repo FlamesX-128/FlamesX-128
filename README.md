@@ -31,8 +31,8 @@
 
 <h2 align="center"> 〖 Cool Guys 〗 </h2>
 <div align="center">
-	<a href="https://github.com/ranon-rat"> <h4> Ranon-Rat </h4></a>
-	<a href="https://github.com/ELPanaJose"> <h4> ElPanaJose (pai) </h4></a>
+	<a href="https://github.com/ranon-rat">Ranon-Rat</a>
+	<a href="https://github.com/ELPanaJose">ElPanaJose (pai)</a>
 </div>
 
 #
