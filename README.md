@@ -6,7 +6,7 @@
 
 <h2 align="center"> 〖 Programming Languages 〗 </h2>
 <div align="center"> 
-	<a href="https://es.wikipedia.org/wiki/JavaScript"> <img src="https://user-images.githubusercontent.com/78381898/106524543-53e91680-64a8-11eb-9fe0-e3504c7fef66.png" height=150 /></a> <a href="https://en.wikipedia.org/wiki/TypeScript"> <img src="https://user-images.githubusercontent.com/78381898/106524548-5481ad00-64a8-11eb-8da6-8c8f2f476254.png" height=150 /> </a>
+	<a href="https://es.wikipedia.org/wiki/JavaScript"> <img src="https://user-images.githubusercontent.com/78381898/106524543-53e91680-64a8-11eb-9fe0-e3504c7fef66.png" height=150 /></a> <a href="https://en.wikipedia.org/wiki/TypeScript"> <img src="https://user-images.githubusercontent.com/78381898/106524548-5481ad00-64a8-11eb-8da6-8c8f2f476254.png" height=150 /> </a>  <a href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)"><img src="https://user-images.githubusercontent.com/78381898/109363895-3dd63800-7853-11eb-975c-d4693d5b03b8.png" height=100 /></a> 
 </div>
 
 <h2 align="center"> 〖 Databases 〗 </h2>
@@ -21,7 +21,7 @@
 
 <h2 align="center"> 〖 Discontinued 〗 </h2>
 <div align="center"> 
-	<a href="https://es.wikipedia.org/wiki/C%2B%2B"> <img src="https://user-images.githubusercontent.com/78381898/106524536-521f5300-64a8-11eb-9a2a-c5b64f90d205.png" height=150 /></a> <a href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)"><img src="https://user-images.githubusercontent.com/78381898/109363895-3dd63800-7853-11eb-975c-d4693d5b03b8.png" height=100 /></a> 
+	<a href="https://es.wikipedia.org/wiki/C%2B%2B"> <img src="https://user-images.githubusercontent.com/78381898/106524536-521f5300-64a8-11eb-9a2a-c5b64f90d205.png" height=150 /></a>
 </div>
 
 <h2 align="center"> 〖 Learning 〗 </h2>
