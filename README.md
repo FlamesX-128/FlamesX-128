@@ -27,6 +27,13 @@ These are databases I use most.
   <img src="https://user-images.githubusercontent.com/78381898/129257025-bcf7c849-da2d-40d5-b29c-396d05501395.png" height="150"/>
 </a>
 
+## **Learning**
+I am currently learning the following:
+
+<a href="https://en.wikipedia.org/wiki/Elixir_(programming_language)">
+  <img src="https://user-images.githubusercontent.com/78381898/129275172-4301e629-5396-44dd-a50c-d5151ce703f6.png" height="120" />
+</a>
+
 ## **Discontinued**
 These are the tools used, discontinue use.
 
