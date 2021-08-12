@@ -24,6 +24,10 @@ These are tools I use.
   <img src="https://user-images.githubusercontent.com/78381898/106524543-53e91680-64a8-11eb-9fe0-e3504c7fef66.png" height="120" />
 </a>
 
+<a href="https://en.wikipedia.org/wiki/Deno_(software)">
+  <img src="https://user-images.githubusercontent.com/78381898/129280677-c874220e-eb6a-4d57-890e-c60843007c2b.png" height="120" />
+</a>
+
 <a href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">
   <img src="https://user-images.githubusercontent.com/78381898/129276396-a1035a8f-8c2a-4b75-94f5-1004bf052b4d.png" height="120" />
 </a>
