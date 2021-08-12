@@ -12,8 +12,8 @@ Hi, I'm a junior programmer.
 ## **Programming languages, runtimes and more.**
 These are tools I use.
 
-<a href="https://en.wikipedia.org/wiki/JavaScript">
-  <img src="https://user-images.githubusercontent.com/78381898/129276175-12a74018-5c73-4b75-817a-6aa56bc27836.png" height="120" />
+<a href="https://en.wikipedia.org/wiki/Web_development">
+  <img src="https://user-images.githubusercontent.com/78381898/129280026-cc0b0c5c-ff2e-47ff-af79-9a406b311a82.png" height="120" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/TypeScript">
@@ -28,10 +28,10 @@ These are tools I use.
   <img src="https://user-images.githubusercontent.com/78381898/129276396-a1035a8f-8c2a-4b75-94f5-1004bf052b4d.png" height="120" />
 </a>
 
-<a href="">
-  <img src="" height="120" />
+## **Frameworks** 
+<a href="https://en.wikipedia.org/wiki/Vue.js">
+  <img src="https://user-images.githubusercontent.com/78381898/129278327-6fe06bc9-bea5-44e5-8c09-4f734c7099d0.png" height="120" />
 </a>
-
 
 ## **Databases**
 These are databases I use.
@@ -74,4 +74,12 @@ These are the tools used, I discontinue use.
   
 <a href="https://github.com/ELPanaJose">
   <img src="https://avatars.githubusercontent.com/u/69026987" height="100" style="border-radius: 10px">
+</a>
+
+<a href="https://github.com/Grabrahama">
+  <img src="https://avatars.githubusercontent.com/u/70868542" height="100" style="border-radius: 10px">
+</a>
+
+<a href="https://github.com/yOn3l">
+  <img src="https://avatars.githubusercontent.com/u/74076866" height="100" style="border-radius: 10px">
 </a>
