@@ -9,8 +9,6 @@ Hi, I'm a junior programmer.
   <img src="https://img.shields.io/discord/830185962360799262?color=7289da&logo=discord&logoColor=dark">
 </a>
 
----
-
 ## **Programming languages.**
 These are programming languages I use most.
 
@@ -22,16 +20,12 @@ These are programming languages I use most.
   <img src="https://user-images.githubusercontent.com/78381898/106524548-5481ad00-64a8-11eb-8da6-8c8f2f476254.png" height="120" />
 </a>
 
----
-
 ## **Databases**
 These are databases I use most.
 
 <a href="https://en.wikipedia.org/wiki/MongoDB"> 
   <img src="https://user-images.githubusercontent.com/78381898/129257025-bcf7c849-da2d-40d5-b29c-396d05501395.png" height="150"/>
 </a>
-
----
 
 ## **Discontinued**
 These are tools that I use, but no longer use.
@@ -52,20 +46,12 @@ These are tools that I use, but no longer use.
   <img src="https://user-images.githubusercontent.com/78381898/109363895-3dd63800-7853-11eb-975c-d4693d5b03b8.png" height="50" >
 </a>
 
----
-
 ## **Cool guys**
 
-<div style="float: left; padding-right: 5px;">
-  <center>ranon<center>
-  <a href="https://github.com/ranon-rat">
-    <img src="https://avatars.githubusercontent.com/u/66473662" height="100" style="border-radius: 10px">
-  </a>
-</div>
-
-<div style="float: left; padding-right: 5px;">
-  <center>ElPanaJose (pai)<center>
-  <a href="https://github.com/ELPanaJose">
-    <img src="https://avatars.githubusercontent.com/u/69026987" height="100" style="border-radius: 10px">
-  </a>
-</div>
+<a href="https://github.com/ranon-rat">
+  <img src="https://avatars.githubusercontent.com/u/66473662" height="100" style="border-radius: 10px">
+</a>
+  
+<a href="https://github.com/ELPanaJose">
+  <img src="https://avatars.githubusercontent.com/u/69026987" height="100" style="border-radius: 10px">
+</a>
