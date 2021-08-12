@@ -9,19 +9,32 @@ Hi, I'm a junior programmer.
   <img src="https://img.shields.io/discord/830185962360799262?color=7289da&logo=discord&logoColor=dark">
 </a>
 
-## **Programming languages.**
-These are programming languages I use most.
+## **Programming languages, runtimes and more.**
+These are tools I use.
 
-<a href="https://en.wikipedia.org/wiki/Node.js">
-  <img src="https://user-images.githubusercontent.com/78381898/106524543-53e91680-64a8-11eb-9fe0-e3504c7fef66.png" height="120" />
+<a href="https://en.wikipedia.org/wiki/JavaScript">
+  <img src="https://user-images.githubusercontent.com/78381898/129276175-12a74018-5c73-4b75-817a-6aa56bc27836.png" height="120" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/TypeScript">
   <img src="https://user-images.githubusercontent.com/78381898/106524548-5481ad00-64a8-11eb-8da6-8c8f2f476254.png" height="120" />
 </a>
 
+<a href="https://en.wikipedia.org/wiki/Node.js">
+  <img src="https://user-images.githubusercontent.com/78381898/106524543-53e91680-64a8-11eb-9fe0-e3504c7fef66.png" height="120" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">
+  <img src="https://user-images.githubusercontent.com/78381898/129276396-a1035a8f-8c2a-4b75-94f5-1004bf052b4d.png" height="120" />
+</a>
+
+<a href="">
+  <img src="" height="120" />
+</a>
+
+
 ## **Databases**
-These are databases I use most.
+These are databases I use.
 
 <a href="https://en.wikipedia.org/wiki/MongoDB"> 
   <img src="https://user-images.githubusercontent.com/78381898/129257025-bcf7c849-da2d-40d5-b29c-396d05501395.png" height="150"/>
@@ -35,7 +48,7 @@ I am currently learning the following:
 </a>
 
 ## **Discontinued**
-These are the tools used, discontinue use.
+These are the tools used, I discontinue use.
 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
   <img src="https://user-images.githubusercontent.com/78381898/106524536-521f5300-64a8-11eb-9a2a-c5b64f90d205.png" height=120 />
