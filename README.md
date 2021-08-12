@@ -1,36 +1,71 @@
-<h1 align="center"> 〖 FlamesX-128 〗 </h1>
+# **FlamesX-128**
+Hi, I'm a junior programmer.
 
-<div align="center"> 
-<img height=148 src="https://github-readme-stats.vercel.app/api?username=FlamesX-128&count_private=true&show_icons=true&theme=tokyonight" />   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesX-128&layout=compact&theme=tokyonight&hide=html" />
+<a href="https://komarev.com/ghpvc/?username=FlamesX-128">
+  <img src="https://komarev.com/ghpvc/?username=FlamesX-128">
+</a>
+
+<a href="https://discord.gg/z3dATdqXWY">
+  <img src="https://img.shields.io/discord/830185962360799262?color=7289da&logo=discord&logoColor=dark">
+</a>
+
+---
+
+## **Programming languages.**
+These are programming languages I use most.
+
+<a href="https://en.wikipedia.org/wiki/Node.js">
+  <img src="https://user-images.githubusercontent.com/78381898/106524543-53e91680-64a8-11eb-9fe0-e3504c7fef66.png" height="120" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/TypeScript">
+  <img src="https://user-images.githubusercontent.com/78381898/106524548-5481ad00-64a8-11eb-8da6-8c8f2f476254.png" height="120" />
+</a>
+
+---
+
+## **Databases**
+These are databases I use most.
+
+<a href="https://en.wikipedia.org/wiki/MongoDB"> 
+  <img src="https://user-images.githubusercontent.com/78381898/129257025-bcf7c849-da2d-40d5-b29c-396d05501395.png" height="150"/>
+</a>
+
+---
+
+## **Discontinued**
+These are tools that I use, but no longer use.
+
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+  <img src="https://user-images.githubusercontent.com/78381898/106524536-521f5300-64a8-11eb-9a2a-c5b64f90d205.png" height=120 />
+</a>
+
+<a href="https://zdoom.org/about">
+  <img src="https://user-images.githubusercontent.com/78381898/109361903-94da0e00-784f-11eb-8ac7-69fd4491cc5e.png" height="120" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/PostgreSQL">
+  <img src="https://user-images.githubusercontent.com/78381898/114326674-82641d00-9afb-11eb-97cf-ba9d58890fec.png" height="120" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Go_(programming_language)">
+  <img src="https://user-images.githubusercontent.com/78381898/109363895-3dd63800-7853-11eb-975c-d4693d5b03b8.png" height="50" >
+</a>
+
+---
+
+## **Cool guys**
+
+<div style="float: left; padding-right: 5px;">
+  <center>ranon<center>
+  <a href="https://github.com/ranon-rat">
+    <img src="https://avatars.githubusercontent.com/u/66473662" height="100" style="border-radius: 10px">
+  </a>
 </div>
 
-<h2 align="center"> 〖 Programming Languages 〗 </h2>
-<div align="center"> 
-	<a href="https://es.wikipedia.org/wiki/JavaScript"> <img src="https://user-images.githubusercontent.com/78381898/106524543-53e91680-64a8-11eb-9fe0-e3504c7fef66.png" height=150 /></a> <a href="https://en.wikipedia.org/wiki/TypeScript"> <img src="https://user-images.githubusercontent.com/78381898/106524548-5481ad00-64a8-11eb-8da6-8c8f2f476254.png" height=150 /> </a>
+<div style="float: left; padding-right: 5px;">
+  <center>ElPanaJose (pai)<center>
+  <a href="https://github.com/ELPanaJose">
+    <img src="https://avatars.githubusercontent.com/u/69026987" height="100" style="border-radius: 10px">
+  </a>
 </div>
-
-<h2 align="center"> 〖 Databases 〗 </h2>
-<div align="center"> 
-	<a href="https://es.wikipedia.org/wiki/MongoDB"> <img src="https://user-images.githubusercontent.com/78381898/109363316-e6839800-7851-11eb-9303-1f1c40092a67.png" height=100 /> </a>
-</div>
-
-<h2 align="center"> 〖 Discontinued 〗 </h2>
-<div align="center"> 
-	<a href="https://es.wikipedia.org/wiki/C%2B%2B"> <img src="https://user-images.githubusercontent.com/78381898/106524536-521f5300-64a8-11eb-9a2a-c5b64f90d205.png" height=150 /></a>
-	<a href="https://zdoom.org/about"><img src="https://user-images.githubusercontent.com/78381898/109361903-94da0e00-784f-11eb-8ac7-69fd4491cc5e.png" height="150" /></a>
-	<a href="https://en.wikipedia.org/wiki/PostgreSQL"> <img src="https://user-images.githubusercontent.com/78381898/114326674-82641d00-9afb-11eb-97cf-ba9d58890fec.png" height=150 /> </a>
-	<a href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)"><img src="https://user-images.githubusercontent.com/78381898/109363895-3dd63800-7853-11eb-975c-d4693d5b03b8.png" height=100 /></a> 
-</div>
-
-<h2 align="center"> 〖 Cool Guys 〗 </h2>
-<div align="center">
-	<a href="https://github.com/ranon-rat">Ranon-Rat</a>
-	<a href="https://github.com/ELPanaJose">ElPanaJose (pai)</a>
-</div>
-
-#
-
-<img src="https://komarev.com/ghpvc/?username=FlamesX-128">
-
-<!-- [![Discord](https://img.shields.io/discord/830185962360799262?color=7289da&logo=discord&logoColor=dark)](https://discord.gg/z3dATdqXWY)
--->
