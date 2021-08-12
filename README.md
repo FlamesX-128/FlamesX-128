@@ -28,7 +28,7 @@ These are databases I use most.
 </a>
 
 ## **Discontinued**
-These are tools that I use, but I no longer use.
+These are the tools used, discontinue use.
 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
   <img src="https://user-images.githubusercontent.com/78381898/106524536-521f5300-64a8-11eb-9a2a-c5b64f90d205.png" height=120 />
