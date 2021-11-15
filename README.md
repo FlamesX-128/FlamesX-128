@@ -44,17 +44,28 @@ These are tools I use.
 ## **Frameworks**
 Some frameworks that I use.
 
-<a href="https://vuejs.org/">
-  <img src="https://user-images.githubusercontent.com/78381898/129278327-6fe06bc9-bea5-44e5-8c09-4f734c7099d0.png" height="120" />
-</a>
+<details>
+  <summary></summary>
+  
+  ### **JavaScript**
 
-<a href="https://www.electronjs.org/">
-  <img src="https://user-images.githubusercontent.com/78381898/129281201-24a4a0a4-c515-4893-b2c2-5779609dd828.png" height="120" />
-</a>
+  <details>
+    <summary></summary>
+ 
+    <a href="https://vuejs.org/">
+      <img src="https://user-images.githubusercontent.com/78381898/129278327-6fe06bc9-bea5-44e5-8c09-4f734c7099d0.png" height="120" />
+    </a>
 
-<a href="https://neutralino.js.org/">
-  <img src="https://user-images.githubusercontent.com/78381898/141718986-3e181e26-a9f1-4538-a3e4-9b7947b4c760.png" height="120" />
-</a>
+    <a href="https://www.electronjs.org/">
+      <img src="https://user-images.githubusercontent.com/78381898/129281201-24a4a0a4-c515-4893-b2c2-5779609dd828.png" height="120" />
+    </a>
+
+    <a href="https://neutralino.js.org/">
+      <img src="https://user-images.githubusercontent.com/78381898/141718986-3e181e26-a9f1-4538-a3e4-9b7947b4c760.png" height="120" />
+    </a>
+ 
+  </details>
+</details>
 
 
 ## **Databases**
