@@ -5,12 +5,7 @@ Hi, I'm a junior programmer.
   <img src="https://komarev.com/ghpvc/?username=FlamesX-128">
 </a>
 
-<a href="https://discord.gg/z3dATdqXWY">
-  <img src="https://img.shields.io/discord/830185962360799262?color=7289da&logo=discord&logoColor=dark">
-</a>
-
 ## **Programming languages, runtimes and more.**
-These are tools I use.
 
 <a href="https://en.wikipedia.org/wiki/Web_development">
   <img src="https://user-images.githubusercontent.com/78381898/129280026-cc0b0c5c-ff2e-47ff-af79-9a406b311a82.png" height="120" />
@@ -42,41 +37,30 @@ These are tools I use.
 
 
 ## **Frameworks**
-Some frameworks that I use.
 
 <details>
-  <summary></summary>
-  
-  ### **JavaScript**
+  <summary> <b>JavaScript</b> </summary>
 
-  <details>
-    <summary></summary>
- 
-    <a href="https://vuejs.org/">
-      <img src="https://user-images.githubusercontent.com/78381898/129278327-6fe06bc9-bea5-44e5-8c09-4f734c7099d0.png" height="120" />
-    </a>
+  <a href="https://vuejs.org/">
+    <img src="https://user-images.githubusercontent.com/78381898/129278327-6fe06bc9-bea5-44e5-8c09-4f734c7099d0.png" height="120" />
+  </a>
 
-    <a href="https://www.electronjs.org/">
-      <img src="https://user-images.githubusercontent.com/78381898/129281201-24a4a0a4-c515-4893-b2c2-5779609dd828.png" height="120" />
-    </a>
+  <a href="https://www.electronjs.org/">
+    <img src="https://user-images.githubusercontent.com/78381898/129281201-24a4a0a4-c515-4893-b2c2-5779609dd828.png" height="120" />
+  </a>
 
-    <a href="https://neutralino.js.org/">
-      <img src="https://user-images.githubusercontent.com/78381898/141718986-3e181e26-a9f1-4538-a3e4-9b7947b4c760.png" height="120" />
-    </a>
- 
-  </details>
+  <a href="https://neutralino.js.org/">
+    <img src="https://user-images.githubusercontent.com/78381898/141718986-3e181e26-a9f1-4538-a3e4-9b7947b4c760.png" height="120" />
+  </a>
 </details>
 
-
 ## **Databases**
-These are databases I use.
 
 <a href="https://www.mongodb.com/"> 
   <img src="https://user-images.githubusercontent.com/78381898/129257025-bcf7c849-da2d-40d5-b29c-396d05501395.png" height="150"/>
 </a>
 
 ## **Learning**
-I am currently learning the following:
 
 <a href="https://nuxtjs.org/">
   <img src="https://user-images.githubusercontent.com/78381898/130335144-3647a7af-ff2a-4ab1-b2d0-a8de81fb34ca.png" height="120" />
