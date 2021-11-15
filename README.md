@@ -35,14 +35,17 @@ Hi, I'm a junior programmer.
   <img src="https://user-images.githubusercontent.com/78381898/141719419-1bfcc0fd-a3eb-4ee1-bb3c-04b0de149515.gif" height="120" >
 </a>
 
-
 ## **Frameworks**
 
 <details>
   <summary> <b>JavaScript</b> </summary>
 
   <a href="https://vuejs.org/">
-    <img src="https://user-images.githubusercontent.com/78381898/129278327-6fe06bc9-bea5-44e5-8c09-4f734c7099d0.png" height="120" />
+    <img src="https://user-images.githubusercontent.com/78381898/141724934-0e218d4c-5cd7-42e8-99bb-017501e72dea.png" height="120" />
+  </a>
+  
+  <a href="https://vitejs.dev/">
+    <img src="https://user-images.githubusercontent.com/78381898/141724778-4135d267-57a8-45fa-88d5-e9b41577d694.png" height="120" />
   </a>
 
   <a href="https://www.electronjs.org/">
@@ -62,17 +65,30 @@ Hi, I'm a junior programmer.
 
 ## **Learning**
 
-<a href="https://nuxtjs.org/">
-  <img src="https://user-images.githubusercontent.com/78381898/130335144-3647a7af-ff2a-4ab1-b2d0-a8de81fb34ca.png" height="120" />
-</a>
+<details>
+  <summary> <b>Languages</b> </summary>
 
-<a href="https://www.docker.com/">
-  <img src="https://user-images.githubusercontent.com/78381898/129281754-7937c316-65c7-4162-a430-96a795a7b3aa.png" height="120" />
-</a>
+  <a href="https://www.rust-lang.org/">
+    <img src="https://user-images.githubusercontent.com/78381898/141719524-b588778f-c506-4686-990b-c66b4da85e9b.png" height="120" />
+  </a>
+</details>
 
-<a href="https://www.rust-lang.org/">
-  <img src="https://user-images.githubusercontent.com/78381898/141719524-b588778f-c506-4686-990b-c66b4da85e9b.png" height="120" />
-</a>
+
+<details>
+  <summary> <b>Frameworks (JS)</b> </summary>
+
+  <a href="https://nuxtjs.org/">
+    <img src="https://user-images.githubusercontent.com/78381898/141725122-35eca371-79d9-4024-823e-f1e3c3daa413.png" height="120" />
+  </a>
+</details>
+
+<details>
+  <summary> <b>Dev Ops</b> </summary>
+
+  <a href="https://www.docker.com/">
+    <img src="https://user-images.githubusercontent.com/78381898/129281754-7937c316-65c7-4162-a430-96a795a7b3aa.png" height="120" />
+  </a>
+</details>
 
 ## **Discontinued**
 These are the tools used, I discontinue use.
