@@ -16,53 +16,67 @@ These are tools I use.
   <img src="https://user-images.githubusercontent.com/78381898/129280026-cc0b0c5c-ff2e-47ff-af79-9a406b311a82.png" height="120" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/TypeScript">
+<a href="https://www.typescriptlang.org/">
   <img src="https://user-images.githubusercontent.com/78381898/106524548-5481ad00-64a8-11eb-8da6-8c8f2f476254.png" height="120" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Node.js">
+<a href="https://nodejs.org/en/">
   <img src="https://user-images.githubusercontent.com/78381898/106524543-53e91680-64a8-11eb-9fe0-e3504c7fef66.png" height="120" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Deno_(software)">
+<a href="https://deno.land/">
   <img src="https://user-images.githubusercontent.com/78381898/129280677-c874220e-eb6a-4d57-890e-c60843007c2b.png" height="120" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">
+<a href="https://sass-lang.com/">
   <img src="https://user-images.githubusercontent.com/78381898/129276396-a1035a8f-8c2a-4b75-94f5-1004bf052b4d.png" height="120" />
 </a>
+
+<a href="https://elixir-lang.org/">
+  <img src="https://user-images.githubusercontent.com/78381898/129275172-4301e629-5396-44dd-a50c-d5151ce703f6.png" height="120" />
+</a>
+
+<a href="https://golang.org/">
+  <img src="https://user-images.githubusercontent.com/78381898/141719419-1bfcc0fd-a3eb-4ee1-bb3c-04b0de149515.gif" height="120" >
+</a>
+
 
 ## **Frameworks**
 Some frameworks that I use.
 
-<a href="https://en.wikipedia.org/wiki/Vue.js">
+<a href="https://vuejs.org/">
   <img src="https://user-images.githubusercontent.com/78381898/129278327-6fe06bc9-bea5-44e5-8c09-4f734c7099d0.png" height="120" />
 </a>
+
+<a href="https://www.electronjs.org/">
+  <img src="https://user-images.githubusercontent.com/78381898/129281201-24a4a0a4-c515-4893-b2c2-5779609dd828.png" height="120" />
+</a>
+
+<a href="https://neutralino.js.org/">
+  <img src="https://user-images.githubusercontent.com/78381898/141718986-3e181e26-a9f1-4538-a3e4-9b7947b4c760.png" height="120" />
+</a>
+
 
 ## **Databases**
 These are databases I use.
 
-<a href="https://en.wikipedia.org/wiki/MongoDB"> 
+<a href="https://www.mongodb.com/"> 
   <img src="https://user-images.githubusercontent.com/78381898/129257025-bcf7c849-da2d-40d5-b29c-396d05501395.png" height="150"/>
 </a>
 
 ## **Learning**
 I am currently learning the following:
 
-<a href="https://en.wikipedia.org/wiki/Elixir_(programming_language)">
-  <img src="https://user-images.githubusercontent.com/78381898/129275172-4301e629-5396-44dd-a50c-d5151ce703f6.png" height="120" />
-</a>
-
 <a href="https://nuxtjs.org/">
   <img src="https://user-images.githubusercontent.com/78381898/130335144-3647a7af-ff2a-4ab1-b2d0-a8de81fb34ca.png" height="120" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Electron_(software_framework)">
-  <img src="https://user-images.githubusercontent.com/78381898/129281201-24a4a0a4-c515-4893-b2c2-5779609dd828.png" height="120" />
+<a href="https://www.docker.com/">
+  <img src="https://user-images.githubusercontent.com/78381898/129281754-7937c316-65c7-4162-a430-96a795a7b3aa.png" height="120" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Docker_(software)">
-  <img src="https://user-images.githubusercontent.com/78381898/129281754-7937c316-65c7-4162-a430-96a795a7b3aa.png" height="120" />
+<a href="https://www.rust-lang.org/">
+  <img src="https://user-images.githubusercontent.com/78381898/141719524-b588778f-c506-4686-990b-c66b4da85e9b.png" height="120" />
 </a>
 
 ## **Discontinued**
@@ -76,12 +90,8 @@ These are the tools used, I discontinue use.
   <img src="https://user-images.githubusercontent.com/78381898/109361903-94da0e00-784f-11eb-8ac7-69fd4491cc5e.png" height="120" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/PostgreSQL">
+<a href="https://www.postgresql.org/">
   <img src="https://user-images.githubusercontent.com/78381898/114326674-82641d00-9afb-11eb-97cf-ba9d58890fec.png" height="120" />
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Go_(programming_language)">
-  <img src="https://user-images.githubusercontent.com/78381898/109363895-3dd63800-7853-11eb-975c-d4693d5b03b8.png" height="50" >
 </a>
 
 ## **Cool guys**
