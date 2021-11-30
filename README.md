@@ -57,6 +57,15 @@ Hi, I'm a junior programmer.
   </a>
 </details>
 
+<details>
+  <summary> <b>Go</b> </summary>
+
+  <a href="https://wails.io/">
+    <img src="https://user-images.githubusercontent.com/78381898/144142916-8d226c1c-5e76-4904-8e10-8b5d1f206880.png" height="120" />
+  </a>
+  
+</details>
+
 ## **Databases**
 
 <a href="https://www.mongodb.com/"> 
