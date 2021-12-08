@@ -120,7 +120,7 @@ These are the tools used, I discontinue use.
   <img src="https://avatars.githubusercontent.com/u/66473662" height="100" style="border-radius: 10px">
 </a>
   
-<a href="https://github.com/ELPanaJose">
+<a href="https://github.com/paij0se">
   <img src="https://avatars.githubusercontent.com/u/69026987" height="100" style="border-radius: 10px">
 </a>
 
