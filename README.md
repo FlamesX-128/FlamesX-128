@@ -84,11 +84,20 @@ Hi, I'm a junior programmer.
 
 
 <details>
-  <summary> <b>Frameworks (JS)</b> </summary>
-
+  <summary> <b>Frameworks</b> </summary>
+  
   <a href="https://nuxtjs.org/">
     <img src="https://user-images.githubusercontent.com/78381898/141725122-35eca371-79d9-4024-823e-f1e3c3daa413.png" height="120" />
   </a>
+  
+  <a href="https://www.fastify.io/">
+    <img src="https://user-images.githubusercontent.com/78381898/150414248-566e99bb-eeca-47a3-89a9-cf63fbb3f7bc.png" height="120" />
+  </a>
+  
+  <a href="https://webpack.js.org/">
+    <img src="https://user-images.githubusercontent.com/78381898/150414540-b4681d15-9343-484e-8203-97b5d6be16b7.png" height="120" />
+  </a>
+  
 </details>
 
 <details>
