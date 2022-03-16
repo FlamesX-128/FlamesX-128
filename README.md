@@ -1,5 +1,5 @@
 # **FlamesX-128**
-Hi, I'm a junior programmer.
+Hi, I'm a junior developer.
 
 <a href="https://komarev.com/ghpvc/?username=FlamesX-128">
   <img src="https://komarev.com/ghpvc/?username=FlamesX-128">
