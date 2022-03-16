@@ -57,43 +57,34 @@ Hi, I'm a junior programmer.
 
 ## **Frameworks**
 
-<details>
-  <summary> <b>JavaScript</b> </summary>
-
-  <a href="https://nuxtjs.org/">
-    <img src="https://user-images.githubusercontent.com/78381898/141725122-35eca371-79d9-4024-823e-f1e3c3daa413.png" height="120" />
-  </a>
-
-  <a href="https://vuejs.org/">
-    <img src="https://user-images.githubusercontent.com/78381898/141724934-0e218d4c-5cd7-42e8-99bb-017501e72dea.png" height="120" />
-  </a>
+<a href="https://vuejs.org/">
+  <img src="https://user-images.githubusercontent.com/78381898/141724934-0e218d4c-5cd7-42e8-99bb-017501e72dea.png" height="120" />
+</a>
   
-  <a href="https://vitejs.dev/">
-    <img src="https://user-images.githubusercontent.com/78381898/141724778-4135d267-57a8-45fa-88d5-e9b41577d694.png" height="120" />
-  </a>
+<a href="https://nuxtjs.org/">
+  <img src="https://user-images.githubusercontent.com/78381898/141725122-35eca371-79d9-4024-823e-f1e3c3daa413.png" height="120" />
+</a>
 
-  <a href="https://webpack.js.org/">
-    <img src="https://user-images.githubusercontent.com/78381898/150414540-b4681d15-9343-484e-8203-97b5d6be16b7.png" height="120" />
-  </a>
+<a href="https://vitejs.dev/">
+  <img src="https://user-images.githubusercontent.com/78381898/141724778-4135d267-57a8-45fa-88d5-e9b41577d694.png" height="120" />
+</a>
 
-  <a href="https://www.electronjs.org/">
-    <img src="https://user-images.githubusercontent.com/78381898/129281201-24a4a0a4-c515-4893-b2c2-5779609dd828.png" height="120" />
-  </a>
+<a href="https://webpack.js.org/">
+  <img src="https://user-images.githubusercontent.com/78381898/150414540-b4681d15-9343-484e-8203-97b5d6be16b7.png" height="120" />
+</a>
 
-  <a href="https://neutralino.js.org/">
-    <img src="https://user-images.githubusercontent.com/78381898/141718986-3e181e26-a9f1-4538-a3e4-9b7947b4c760.png" height="120" />
-  </a>
-</details>
+<a href="https://www.electronjs.org/">
+  <img src="https://user-images.githubusercontent.com/78381898/129281201-24a4a0a4-c515-4893-b2c2-5779609dd828.png" height="120" />
+</a>
 
-<details>
-  <summary> <b>Go</b> </summary>
+<a href="https://neutralino.js.org/">
+  <img src="https://user-images.githubusercontent.com/78381898/141718986-3e181e26-a9f1-4538-a3e4-9b7947b4c760.png" height="120" />
+</a>
 
-  <a href="https://wails.io/">
-    <img src="https://user-images.githubusercontent.com/78381898/144142916-8d226c1c-5e76-4904-8e10-8b5d1f206880.png" height="120" />
-  </a>
+<a href="https://wails.io/">
+  <img src="https://user-images.githubusercontent.com/78381898/144142916-8d226c1c-5e76-4904-8e10-8b5d1f206880.png" height="120" />
+</a>
   
-</details>
-
 ## **Databases**
 
 <a href="https://www.mongodb.com/"> 
