@@ -7,7 +7,7 @@
   />
 </a>
 
-<h2 align="center"><b>Languages, runtimes, and more</b></h2>
+<h2 align="center"><b>I know</b></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-05122A?&amp;logo=html5" alt="HTML">
