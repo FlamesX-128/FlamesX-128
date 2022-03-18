@@ -1,4 +1,4 @@
-<h1 align="center"><b>Flames Hundred Twenty Eigh</b></h1>
+<h1 align="center"><b>Flames Hundred Twenty Eight</b></h1>
 
 <a align="center" href="https://github.com/FlamesX-128/FlamesX-128">
   <img
