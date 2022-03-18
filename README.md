@@ -48,6 +48,12 @@
 <h2 align="center"><b>Cool guys</b></h2>
 
 <p align="center">
+  <a href="https://github.com/fernancat">
+    <img
+      src="https://avatars.githubusercontent.com/u/77240736"
+      height="50px" width="50px"
+    />
+  </a>
   <a href="https://github.com/ranon-rat">
     <img
       src="https://avatars.githubusercontent.com/u/66473662"
@@ -60,6 +66,12 @@
       height="50px" width="50px"
     >
   </a>
+  <a href="https://github.com/yOn3l">
+    <img
+      src="https://avatars.githubusercontent.com/u/74076866"
+      height="50px" width="50px"
+    />
+  </a>
   <a href="https://github.com/jumang4423">
     <img
       src="https://avatars.githubusercontent.com/u/63630786"
@@ -69,12 +81,6 @@
   <a href="https://github.com/Grabrahama">
     <img
       src="https://avatars.githubusercontent.com/u/70868542"
-      height="50px" width="50px"
-    />
-  </a>
-  <a href="https://github.com/yOn3l">
-    <img
-      src="https://avatars.githubusercontent.com/u/74076866"
       height="50px" width="50px"
     />
   </a>
