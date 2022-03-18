@@ -2,7 +2,11 @@
 Hi, I'm a junior developer.
 
 <a href="https://komarev.com/ghpvc/?username=FlamesX-128">
-  <img src="https://komarev.com/ghpvc/?username=FlamesX-128">
+  <img src="https://komarev.com/ghpvc/?username=FlamesX-128" />
+</a>
+
+<a href="">
+  <img src="https://activity-graph.herokuapp.com/graph?username=FlamesX-128&hide_border=true&theme=redical" />
 </a>
 
 ## **Programming languages, runtimes and more.**
