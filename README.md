@@ -29,5 +29,3 @@
   <img src="https://img.shields.io/badge/MongoDB-05122A?&amp;logo=mongodb" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-05122A?&amp;logo=postgresql" alt="PostgreSQL" />
 </p>
-
-<hr />
