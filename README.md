@@ -32,8 +32,6 @@
 
 <hr />
 
-<h2 align="center"><b>Cool guys</b></h2>
-
 <p align="center">
   <a href="https://github.com/fernancat">
     <img
