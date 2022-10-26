@@ -10,10 +10,14 @@
       <img src="https://discord.c99.nl/widget/theme-4/347787075308748801.png" height="80" />
     </code>
   </a>
+
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/8af6352f-5251-4e70-891e-87e1f0c3fa23.svg" />
+  <a href="https://wakatime.com/@8af6352f-5251-4e70-891e-87e1f0c3fa23">
+    <img src="https://wakatime.com/badge/user/8af6352f-5251-4e70-891e-87e1f0c3fa23.svg" alt="Total time coded since Apr 16 2021" />
+  </a>
+ 
 </p>
 
 <hr />
