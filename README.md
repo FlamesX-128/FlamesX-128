@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://wakatime.com/badge/user/8af6352f-5251-4e70-891e-87e1f0c3fa23.svg" />
+</p>
+
 <hr />
 
 <p align="center">
