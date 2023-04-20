@@ -4,20 +4,17 @@
 
 <hr />
 
+
 <p align="center">
   <a href="https://discord.com/users/347787075308748801">
-    <code>
-      <img src="https://discord.c99.nl/widget/theme-4/347787075308748801.png" height="80" />
-    </code>
+    <code><img src="https://discord.c99.nl/widget/theme-4/347787075308748801.png" height="80" /></code>
   </a>
-
 </p>
 
 <p align="center">
   <a href="https://wakatime.com/@8af6352f-5251-4e70-891e-87e1f0c3fa23">
     <img src="https://wakatime.com/badge/user/8af6352f-5251-4e70-891e-87e1f0c3fa23.svg" />
   </a>
- 
 </p>
 
 <hr />
