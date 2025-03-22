@@ -22,9 +22,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Sass-05122A?&amp;logo=sass" alt="Sass" />
   <img src="https://img.shields.io/badge/Deno-05122A?&amp;logo=deno" alt="Deno" />
-  <img src="https://img.shields.io/badge/TypeScript-05122A?&amp;logo=TypeScript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Go-05122A?style=flat&amp;logo=go" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-05122A?&amp;logo=rust" alt="Rust" />
   <img src="https://img.shields.io/badge/MongoDB-05122A?&amp;logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-05122A?&amp;logo=postgresql" alt="PostgreSQL" />
 </p>
